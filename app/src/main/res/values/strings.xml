@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Unit Convertor</string>
-    <string name="unit_converter_app">Unit Converter App</string>
-    <string name="enter_the_value_in_m_below">Enter the value in m below</string>
-    <string name="value_in_m">value in m</string>
-    <string name="convert">Convert</string>
-    <string name="value_in_cm">Value in cm</string>
-</resources>
