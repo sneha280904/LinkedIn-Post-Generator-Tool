@@ -1,5 +1,7 @@
 # Post-Genie-AI - LinkedIn Post Generator Tool ✨🤖
 
+Note: The source code for this project has been made private intentionally.
+
 Welcome to **Post-Genie-AI**, the AI-powered tool designed to generate creative and engaging social media posts, captions, and content! Whether you're a content creator, marketer, or social media manager, this tool makes it easy to create content that resonates with your audience. 📱💬
 
 ## Features ✨
